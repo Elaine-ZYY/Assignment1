@@ -188,7 +188,6 @@ class App extends BaseConfig
 	public $sessionMatchIP           = false;
 	public $sessionTimeToUpdate      = 300;
 	public $sessionRegenerateDestroy = false;
-
 	/*
 	|--------------------------------------------------------------------------
 	| Cookie Related Variables

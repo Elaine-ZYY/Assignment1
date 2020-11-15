@@ -50,5 +50,4 @@ class Travel extends BaseController {
         // and have it render the template with those      
         ->render('oneplace');
      } 
-
 }
