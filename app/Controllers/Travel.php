@@ -13,7 +13,7 @@ class Travel extends BaseController {
             $records = $places->findAll(); 
         foreach ($records as $record) {
         $nameLink = anchor("travel/showme/$record->id",$record->name);
-        $image='<img src="/image/.'.'image">';
+        $image='<img src="/image/'.$record->image.'">';
         $table->addRow($nameLink,$image,$record->description);
        // $table->addRow($record->name,$record->description);
         }
