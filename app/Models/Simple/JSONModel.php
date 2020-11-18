@@ -54,5 +54,4 @@ class JSONModel extends SimpleModel
 		$output = json_encode($this->data);
 		file_put_contents($this->origin, $output);
 	}
-
 }

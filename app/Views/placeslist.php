@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 	<head>
-		<title>DGPT4711 Lab 06</title>
+		<title>DGPT4711 Assignment</title>
 	</head>
 	<body>
 		<h1>List of Travel Destinations</h1>

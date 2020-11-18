@@ -11,6 +11,5 @@ protected $origin = WRITEPATH . 'data/placesData.csv';
 protected $keyField = 'id';
 protected $validationRules = []; 
     //mock data : an array of records
-    
-
+   
 }

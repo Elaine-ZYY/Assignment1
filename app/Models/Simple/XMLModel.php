@@ -79,5 +79,4 @@ class XMLModel extends SimpleModel
 		$xmlDoc->save($this->origin);
 		//echo $xmlDoc->saveXML();
 	}
-
 }

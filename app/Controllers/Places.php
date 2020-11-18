@@ -11,5 +11,4 @@ class Places extends \CodeIgniter\Controller {
 // JSON encode and return the result          
         return json_encode($records);
     }
-
 }

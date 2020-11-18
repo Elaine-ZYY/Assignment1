@@ -4,5 +4,6 @@ class Media extends BaseController
         public function image($filename)    
         {           
             readfile(WRITEPATH . 'data/' . $filename);      
-            }     
+            } 
+            
 }

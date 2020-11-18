@@ -1,6 +1,7 @@
-id,name,description,link,image
-1,Hong Kong,A special administrative region on the eastern side of the Pearl River estuary in southern China.,http://www.discoverhongkong.com/eng/index.jsp,hongkong.jpg
-2,Macau,A special administrative region on the western side of the Pearl River estuary in southern China.,http://en.macaotourism.gov.mo/index.php,macau.jpg
-3,Thailand,A country at the centre of the Southeast Asian Indochinese peninsula composed of 76 provinces.,http://www.tourismthailand.org/,thailand.jpg
-4,Japan,An island country in East Asia.,http://www.jnto.go.jp/eng/,japan.jpg
-5,Vietnam,The easternmost country on the Indochina Peninsula.,http://www.vietnamtourism.gov.vn/english,vietnam.jpg
+id,name,birth,place,description,magnum opus,link,image
+1,Wang Feng,June 29.1971,Beijing,"Mainland China rock singer，music composer，lyricist，composer，initiator of the band 43 Baojia Street.",《The Storm》《Fireworks》《Love is a Happy Bullet》《Life in Bloom》《Braveheart》《Faith In the Air》,https://baike.baidu.com/item/%E6%B1%AA%E5%B3%B0/13081?fr=aladdin,1.jpg
+2,Zheng Jun,November 6.1967,Xi an，Shaanxi,"Famous Chinese rock singer and original musician.",《Naked》《The Third Eye》《In full bloom》《Back to Lhasa》《Dao》《Flying low》,https://baike.baidu.com/item/%E9%83%91%E9%92%A7/245263?fr=aladdin,2.jpg
+3,Cui Jian,August 2.1961,Beijing,"Chinese rock and roll singer，songwriter，director，actor and screenwriter，known as the father of Chinese rock and roll.",《The prodigal son returns》《Nothing》《The new long March road rock》《quick let me sprinkle some wild on the snow》《who is Cui Jian》,https://baike.baidu.com/item/%E5%B4%94%E5%81%A5/10748?fr=aladdin,3.jpg
+4,Huang Jiaju,June 10.1962,Hong Kong,"Hong Kong, China male singer, original musician, guitarist, lead singer and member of the rock band Beyond.",《Big Sky》《Goodbye ideal》《Glory days》《Like You》《AMANI》,https://baike.baidu.com/item/%E9%BB%84%E5%AE%B6%E9%A9%B9/77734?fr=aladdin,4.jpg
+5,Dou Wei,October 14.1969,Beijing,"Chinese rock singer and musician. He joined Black Panther in 1988 as lead singer and songwriter.",《Black Dream》《Sunny Day》《Mountains and rivers》《Hearing Voices》,https://baike.baidu.com/item/%E7%AA%A6%E5%94%AF/156394?fr=aladdin,5.jpg
+6,Xu Wei,July 21.1968,Xi an，Shaanxi,"Chinese mainland rock singer.",《Elsewhere》《The Year》《Time For a Walk》《The Gift》《The Third Pole》,https://baike.baidu.com/item/%E8%AE%B8%E5%B7%8D/309261?fr=aladdin,6.jpg

@@ -4,15 +4,17 @@ namespace App\Controllers;
 class Travel extends BaseController {
 
     public function index() {
+        $parser = \Config\Services::parser();  
         $places = new \App\Models\Places(); 
         $table = new \CodeIgniter\View\Table();
         $headings = $places->fields;
-        $displayHeadings = array_slice($headings, 1, 2);
+        $displayHeadings = array($headings[1], $headings[7], $headings[6]);
         $table->setHeading(array_map('ucfirst', $displayHeadings));
             $records = $places->findAll(); 
         foreach ($records as $record) {
         $nameLink = anchor("travel/showme/$record->id",$record->name);
-        $table->addRow($nameLink,$record->description);
+        $image='<img src="/image/.'.'image">';
+        $table->addRow($nameLink,$image,$record->description);
        // $table->addRow($record->name,$record->description);
         }
         $template = [
