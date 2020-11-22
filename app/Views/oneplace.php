@@ -4,7 +4,7 @@
 		<title>DGPT4711 Assignment1</title>
 	</head>
 	<body>
-		<h1>One Travel Destinations</h1>
+		<h1>Rock singer</h1>
 		<p><strong>ID:</strong> {id}</p>
 		<p><strong>Name:</strong> {name}</p>
                 <p><strong>Birth:</strong> {birth}</p>
